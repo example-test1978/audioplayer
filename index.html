@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Music</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <div class="wrapper">
+    <audio id="audio">
+      <source src="">
+    </audio>
+    <div class="box-name">
+      <p class="name-music"></p>
+    </div>
+
+
+    <div class="box-img">
+      <img class="my-img" src="images/image9.jpg" alt="">
+    </div>
+    <div class="controls">
+      <i id="repeat-plist" class="material-icons" title="Playlist">repeat</i>
+      <i id="prev" class="material-icons">skip_previous</i>
+      <div class="play-pause">
+        <i class="material-icons">play_arrow</i>
+      </div>
+      <i id="next" class="material-icons">skip_next</i>
+      <i id="more-music" class="material-icons">queue_music</i>
+    </div>
+    <div class="box-button">
+      <button class="btn" onclick="preveMusic()">left</button>
+      <button class="btn-start">Start</button>
+      <button class="btn" onclick="nextMusic()">right</button>
+    </div>
+    <script src="js/script.js"></script>
+    <script src="js/music-list.js"></script>
+</body>
+
+</html>
