@@ -11,6 +11,9 @@ let all_music = [
         name: 'Скрябін - Мам (Kids cover)'
     },
     {
+        name: 'Alphaville - Big In Japan (Moreno J Remix)'
+    },
+    {
         name: 'Korg_Style'
     },
     {
