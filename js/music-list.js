@@ -3,11 +3,12 @@
 
 
 let all_music = [
-    {
-        name: 'Скрябін - Мам (Kids cover)'
-    },
+   
     {
         name: 'Bartek Wrona  - Jedna Na Milion 2021  (Official video)'
+    },
+    {
+        name: 'Скрябін - Мам (Kids cover)'
     },
     {
         name: 'Korg_Style'
