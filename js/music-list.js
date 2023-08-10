@@ -4,7 +4,7 @@
 
 let all_music = [
     {
-        name: 'Скрябін - Мам (Kids cover).mp3'
+        name: 'Скрябін - Мам (Kids cover)'
     },
     {
         name: 'Bartek Wrona  - Jedna Na Milion 2021  (Official video)'
